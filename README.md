@@ -1,3 +1,3 @@
 # test-elementsportscoaching
 
-test site for new McK-itc and McK@Home website
+test site for Element Sports Coaching> Project 51 website
